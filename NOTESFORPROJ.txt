@@ -1,0 +1,5 @@
+segregate the tokens generated using nltk parser and put it in some separate file.
+extract the aspects from the tokens.
+use stanford dependencies to find the adjective and its aspects
+then use the seed lexicon (pos and neg) to find the polarity of the adj associated with its aspects store it in a file
+then ask murali sir what to do next.

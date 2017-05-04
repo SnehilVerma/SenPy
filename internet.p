@@ -1,0 +1,16 @@
+(lp0
+Vinternet
+p1
+aVnet
+p2
+aVcyberspace
+p3
+aVwireless_local_area_network
+p4
+aVWLAN
+p5
+aVwireless_fidelity
+p6
+aVWiFi
+p7
+a.
